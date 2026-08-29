@@ -1,8 +1,8 @@
 # mcp-server-rrhh-construccion
 
-> **Status: planning phase, pending professor approval.** See the
-> specification draft at
-> [`../Proyecto1-MCP-RRHH/docs/hr_server_spec_draft.md`](../Proyecto1-MCP-RRHH/docs/hr_server_spec_draft.md)
+> **Status: scope approved by the professor, implementation starting.**
+> See the full specification draft at
+> [`../Proyecto1-Redes/docs/hr_server_spec_draft.md`](../Proyecto1-Redes/docs/hr_server_spec_draft.md)
 > in the main project repo.
 
 An MCP (Model Context Protocol) server that exposes HR management tools
