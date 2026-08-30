@@ -1,0 +1,4 @@
+# Pinned to exact versions on purpose: the `mcp` SDK has been changing its
+# API quickly (FastMCP was renamed to MCPServer between 1.x and 2.x), so an
+# unpinned install could silently resolve to an incompatible version.
+mcp==2.1.1
